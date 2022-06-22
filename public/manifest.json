@@ -1,6 +1,6 @@
 {
-  "short_name": "Streamo",
-  "name": "Streamo | Streamtape Content Manager",
+  "short_name": "Upload Admins",
+  "name": "Admins Upload Panel",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,9 @@
       "type": "image/x-icon"
     },
     {
-      "src": "https://cdn.discordapp.com/attachments/946988065824591922/946989835602788352/favicon.png",
+      "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "https://cdn.discordapp.com/attachments/946988065824591922/946989835602788352/favicon.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
