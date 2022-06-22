@@ -115,7 +115,7 @@ function VideoPlayerPage() {
               <span>
                 Please{' '}
                 <a
-                  href="https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom"
+                  href="#"
                   target="_blank"
                   className="border-b border-purple-300  hover:text-purple-300"
                 >
